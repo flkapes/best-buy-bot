@@ -1,0 +1,20 @@
+{
+  "bot_usage_case": "",
+  "executable_path": "",
+  "url": "",
+  "title": "",
+  "email": "",
+  "password": "",
+  "first_name": "",
+  "last_name": "",
+  "address": "",
+  "city": "",
+  "state": "",
+  "zip_code": "",
+  "cvv": "",
+  "cc_number": "",
+  "month": "",
+  "year": "",
+  "phone": "",
+  "discord_webhook": ""
+}
